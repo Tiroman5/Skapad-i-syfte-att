@@ -1,0 +1,1 @@
+Take the interior only, without the material
